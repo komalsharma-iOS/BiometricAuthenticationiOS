@@ -1,7 +1,7 @@
 # BiometricAuthenticationiOS
 
 This is the time when users are more towards how to safeguard their content. 
-This is why now a lot of applications are coming with TouchID or faceId authentication to secure user data.
+This is why now a lot of applications are coming with TouchID or FaceId authentication to secure user data.
 
 Biometric authentication is what we look out while talking about security.
 
